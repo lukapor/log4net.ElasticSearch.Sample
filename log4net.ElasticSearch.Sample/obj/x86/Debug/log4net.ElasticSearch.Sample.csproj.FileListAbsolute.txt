@@ -1,0 +1,17 @@
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.dll
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.ElasticSearch.dll
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nest.dll
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.xml
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.ElasticSearch.pdb
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nest.pdb
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\Nest.xml
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\jtoto\projects\pm-spikes\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\jtoto\projects\pm-spikes\log4net.ElasticSearch.Sample\log4net.ElasticSearch.Sample\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jtoto\projects\pm-spikes\log4net.ElasticSearch.Sample\log4net.ElasticSearch.Sample\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\jtoto\projects\pm-spikes\log4net.ElasticSearch.Sample\log4net.ElasticSearch.Sample\obj\x86\Debug\ConsoleApplication1.pdb
